@@ -12,10 +12,10 @@ VZ_MEAN = 0
 VZ_STD = 5
 RWY_DIS_MEAN = 100
 RWY_DIS_STD = 200
-altitude_space = np.linspace((ALT_MIN - ALT_MEAN)/ALT_STD, (ALT_MAX - ALT_MEAN)/ALT_STD, 100)
-vertical_velocity_space = np.linspace(-10, 10, 100) 
-target_altitude_space = np.linspace((ALT_MIN - ALT_MEAN)/ALT_STD, (ALT_MAX - ALT_MEAN)/ALT_STD, 100)
-runway_distance_space = np.linspace(-2, 2, 100)
+altitude_space = np.linspace((ALT_MIN - ALT_MEAN)/ALT_STD, (ALT_MAX - ALT_MEAN)/ALT_STD, 50)
+vertical_velocity_space = np.linspace(-10, 10, 50) 
+target_altitude_space = np.linspace((ALT_MIN - ALT_MEAN)/ALT_STD, (ALT_MAX - ALT_MEAN)/ALT_STD, 50)
+runway_distance_space = np.linspace(-2, 2, 50)
 
 def get_state(obs):
     alt = obs['altitude'][0]
@@ -61,7 +61,7 @@ max_steps = 1
 obs, _ = env.reset()
 done = False
 
-while i < 100:
+while i < 1000:
     obs, _ = env.reset()
     done = False
     print(f"Episode {i + 1}")
