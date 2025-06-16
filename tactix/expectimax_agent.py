@@ -37,10 +37,15 @@ class ExpectimaxTacTixAgent(Agent):
     def pol_prob(self, board, action):
         valid_actions = self.get_valid_actions(board)
         return 1 / len(valid_actions) if action in valid_actions else 0 # probabilidad uniforme de elegir una acción válida
+    
+    def h(self, board):
+        # Heurística simple: paridad de piezas restantes
+        remaining = np.count_nonzero(board)
+        return 1 if remaining % 2 == 1 else -1
 
     def expectimax(self, board, depth, maximizing_player):
         if depth == 0 or np.count_nonzero(board) == 0:
-            return -1 if maximizing_player else 1
+            return self.h(board)
         
         valid_actions = self.get_valid_actions(board)
         if not valid_actions:
