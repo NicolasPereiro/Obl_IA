@@ -1,0 +1,78 @@
+Media de reward en episodios 1 a 100: -136.59574925775 con exploracion 0.7
+Media de reward en episodios 101 a 200: -132.9001808801667 con exploracion 0.7
+Media de reward en episodios 201 a 300: -124.19414045418333 con exploracion 0.7
+Media de reward en episodios 301 a 400: -120.93432680778332 con exploracion 0.7
+Media de reward en episodios 401 a 500: -119.62970557056666 con exploracion 0.7
+Media de reward en episodios 501 a 600: -136.39820046916665 con exploracion 0.3
+Media de reward en episodios 601 a 700: -139.39488584478332 con exploracion 0.3
+Media de reward en episodios 701 a 800: -135.17652876601667 con exploracion 0.3
+Media de reward en episodios 801 a 900: -138.3634736605 con exploracion 0.3
+Media de reward en episodios 901 a 1000: -128.08536667213338 con exploracion 0.3
+Media de reward en episodios 1001 a 1100: -104.65440924768335 con exploracion 0.7
+Media de reward en episodios 1101 a 1200: -107.7056156404167 con exploracion 0.7
+Media de reward en episodios 1201 a 1300: -111.01306739536663 con exploracion 0.7
+Media de reward en episodios 1301 a 1400: -104.96370548224996 con exploracion 0.7
+Media de reward en episodios 1401 a 1500: -101.97118647521665 con exploracion 0.7
+Media de reward en episodios 1501 a 1600: -122.93486319261666 con exploracion 0.3
+Media de reward en episodios 1601 a 1700: -119.45301946810001 con exploracion 0.3
+Media de reward en episodios 1701 a 1800: -111.89409773793332 con exploracion 0.3
+Media de reward en episodios 1801 a 1900: -111.97386034621667 con exploracion 0.3
+Media de reward en episodios 1901 a 2000: -111.027404274 con exploracion 0.3
+Media de reward en episodios 2001 a 2100: -103.65099406921667 con exploracion 0.7
+Media de reward en episodios 2101 a 2200: -100.73377972073335 con exploracion 0.7
+Media de reward en episodios 2201 a 2300: -95.79671881805001 con exploracion 0.7
+Media de reward en episodios 2301 a 2400: -94.09624924425002 con exploracion 0.7
+Media de reward en episodios 2401 a 2500: -101.70710197945002 con exploracion 0.7
+Media de reward en episodios 2501 a 2600: -106.98364640763334 con exploracion 0.3
+Media de reward en episodios 2601 a 2700: -110.9478619727167 con exploracion 0.3
+Media de reward en episodios 2701 a 2800: -114.97999158340001 con exploracion 0.3
+Media de reward en episodios 2801 a 2900: -101.40128745408335 con exploracion 0.3
+Media de reward en episodios 2901 a 3000: -99.27284619525003 con exploracion 0.3
+Media de reward en episodios 3001 a 3100: -94.18269178085 con exploracion 0.7
+Media de reward en episodios 3101 a 3200: -96.50552074188336 con exploracion 0.7
+Media de reward en episodios 3201 a 3300: -96.18755014231668 con exploracion 0.7
+Media de reward en episodios 3301 a 3400: -96.38090303175001 con exploracion 0.7
+Media de reward en episodios 3401 a 3500: -96.02877625351667 con exploracion 0.7
+Media de reward en episodios 3501 a 3600: -100.28320432308335 con exploracion 0.3
+Media de reward en episodios 3601 a 3700: -93.44026557276669 con exploracion 0.3
+Media de reward en episodios 3701 a 3800: -91.65345895021665 con exploracion 0.3
+Media de reward en episodios 3801 a 3900: -95.71369288648334 con exploracion 0.3
+Media de reward en episodios 3901 a 4000: -94.6868384108667 con exploracion 0.3
+Media de reward en episodios 4001 a 4100: -96.13958736078334 con exploracion 0.7
+Media de reward en episodios 4101 a 4200: -88.36825877698332 con exploracion 0.7
+Media de reward en episodios 4201 a 4300: -92.47288071101667 con exploracion 0.7
+Media de reward en episodios 4301 a 4400: -93.67930938315 con exploracion 0.7
+Media de reward en episodios 4401 a 4500: -89.61287719106666 con exploracion 0.7
+Media de reward en episodios 4501 a 4600: -93.36432755780001 con exploracion 0.3
+Media de reward en episodios 4601 a 4700: -92.06601196221665 con exploracion 0.3
+Media de reward en episodios 4701 a 4800: -92.28517789446667 con exploracion 0.3
+Media de reward en episodios 4801 a 4900: -86.93649017388333 con exploracion 0.3
+Media de reward en episodios 4901 a 5000: -86.22104184105 con exploracion 0.3
+Media de reward en episodios 5001 a 5100: -90.35114561236668 con exploracion 0.7
+Media de reward en episodios 5101 a 5200: -93.48001052996668 con exploracion 0.7
+Media de reward en episodios 5201 a 5300: -91.2349468827 con exploracion 0.7
+Media de reward en episodios 5301 a 5400: -90.31300903523329 con exploracion 0.7
+Media de reward en episodios 5401 a 5500: -83.50935273696666 con exploracion 0.7
+Media de reward en episodios 5501 a 5600: -87.09890726249999 con exploracion 0.3
+Media de reward en episodios 5601 a 5700: -83.05427511315 con exploracion 0.3
+Media de reward en episodios 5701 a 5800: -82.77619541988334 con exploracion 0.3
+Media de reward en episodios 5801 a 5900: -84.9303146655 con exploracion 0.3
+Media de reward en episodios 5901 a 6000: -81.54573086728334 con exploracion 0.3
+Media de reward en episodios 6001 a 6100: -89.8273877766 con exploracion 0.7
+Media de reward en episodios 6101 a 6200: -88.29659716679998 con exploracion 0.7
+Media de reward en episodios 6201 a 6300: -83.38216139083332 con exploracion 0.7
+Media de reward en episodios 6301 a 6400: -90.87613311976669 con exploracion 0.7
+Media de reward en episodios 6401 a 6500: -87.55776419683335 con exploracion 0.7
+Media de reward en episodios 6501 a 6600: -75.38236240965 con exploracion 0.3
+Media de reward en episodios 6601 a 6700: -80.98542807541668 con exploracion 0.3
+Media de reward en episodios 6701 a 6800: -81.1805040706 con exploracion 0.3
+Media de reward en episodios 6801 a 6900: -81.55478281986667 con exploracion 0.3
+Media de reward en episodios 6901 a 7000: -78.4375404914 con exploracion 0.3
+
+Recompensa media en 100 episodios: -71.77986810338335
+Recompensa minima: -162.37261090833334
+Recompensa maxima: -39.350632545
+Pasos promedio por episodio: 40.48
+
+Alpha 0.8
+Gamma 0.3
