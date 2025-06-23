@@ -1,5 +1,6 @@
 import numpy as np
 import pygame
+import pygame.surfarray
 
 import bluesky as bs
 from bluesky_gym.envs.common.screen_dummy import ScreenDummy
@@ -200,8 +201,74 @@ class DescentEnv(gym.Env):
 
         return observation, reward, terminated, False, info
     
-    def render(self):
-        pass
+    def render(self, mode=None):
+        # Si no se especifica, usa el modo de la instancia
+        if mode is None:
+            mode = self.render_mode
+
+        if mode == "human":
+            self._render_frame()
+        elif mode == "rgb_array":
+            # Renderiza el frame en un Surface de pygame
+            canvas = pygame.Surface(self.window_size)
+            canvas.fill((135,206,235))
+
+            # draw a ground surface
+            pygame.draw.rect(
+                canvas, 
+                (154,205,50),
+                pygame.Rect(
+                    (0,self.window_height-50),
+                    (self.window_width, 50)
+                    ),
+            )
+            
+            # draw target altitude
+            max_alt = 5000
+            target_alt = int((-1*(self.target_alt-max_alt)/max_alt)*(self.window_height-50))
+
+            pygame.draw.line(
+                canvas,
+                (255,255,255),
+                (0,target_alt),
+                (self.window_width,target_alt)
+            )
+
+            # draw runway
+            runway_length = 30
+            zero_offset = 25
+            max_distance = 180 # width of screen in km
+            runway_start = int(((self.runway_distance + zero_offset)/max_distance)*self.window_width)
+            runway_end = int(runway_start + (runway_length/max_distance)*self.window_width)
+
+            pygame.draw.line(
+                canvas,
+                (119,136,153),
+                (runway_start,self.window_height - 50),
+                (runway_end,self.window_height - 50),
+                width = 3
+            )
+
+            # draw aircraft
+            aircraft_alt = int((-1*(self.altitude-max_alt)/max_alt)*(self.window_height-50))
+            aircraft_start = int(((zero_offset)/max_distance)*self.window_width)
+            aircraft_end = int(aircraft_start + (4/max_distance)*self.window_width)
+
+            pygame.draw.line(
+                canvas,
+                (0,0,0),
+                (aircraft_start,aircraft_alt),
+                (aircraft_end,aircraft_alt),
+                width = 5
+            )
+
+            # Convierte el Surface de pygame a array numpy (RGB)
+            frame = pygame.surfarray.array3d(canvas)
+            # Transponer para que sea (alto, ancho, canales)
+            frame = frame.transpose((1, 0, 2))
+            return frame
+        else:
+            raise NotImplementedError(f"Render mode {mode} not supported.")
 
     def _render_frame(self):
         if self.window is None and self.render_mode == "human":

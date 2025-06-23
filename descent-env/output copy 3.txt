@@ -1,0 +1,455 @@
+Tipo: <class 'numpy.ndarray'>
+Shape: (20, 20, 15)
+Tamaï¿½o en memoria (MB): 0.0457763671875
+Media de reward en episodios 1 a 100: -75.40591923783334 con exploracion 0.7
+Media de reward en episodios 101 a 200: -82.37728150721667 con exploracion 0.7
+Media de reward en episodios 201 a 300: -76.89243313298333 con exploracion 0.7
+Media de reward en episodios 301 a 400: -73.47882204871667 con exploracion 0.7
+Media de reward en episodios 401 a 500: -71.37422265155 con exploracion 0.7
+Media de reward en episodios 501 a 600: -80.07932561208334 con exploracion 0.7
+Media de reward en episodios 601 a 700: -83.79107310623336 con exploracion 0.7
+Media de reward en episodios 701 a 800: -75.24614047226667 con exploracion 0.7
+Media de reward en episodios 801 a 900: -78.58537141011666 con exploracion 0.7
+Media de reward en episodios 901 a 1000: -80.65934446461667 con exploracion 0.7
+Media de reward en episodios 1001 a 1100: -74.59786108419999 con exploracion 0.7
+Media de reward en episodios 1101 a 1200: -77.715703257 con exploracion 0.7
+Media de reward en episodios 1201 a 1300: -72.30461810248333 con exploracion 0.7
+Media de reward en episodios 1301 a 1400: -80.37471783166667 con exploracion 0.7
+Media de reward en episodios 1401 a 1500: -73.97819459486668 con exploracion 0.7
+Media de reward en episodios 1501 a 1600: -71.53328577961666 con exploracion 0.7
+Media de reward en episodios 1601 a 1700: -70.7993699097 con exploracion 0.7
+Media de reward en episodios 1701 a 1800: -73.21639486515001 con exploracion 0.7
+Media de reward en episodios 1801 a 1900: -81.94181143303335 con exploracion 0.7
+Media de reward en episodios 1901 a 2000: -74.46341579195001 con exploracion 0.7
+Media de reward en episodios 2001 a 2100: -75.12227749145 con exploracion 0.7
+Media de reward en episodios 2101 a 2200: -73.90163987268332 con exploracion 0.7
+Media de reward en episodios 2201 a 2300: -76.90673421218332 con exploracion 0.7
+Media de reward en episodios 2301 a 2400: -75.22814855120001 con exploracion 0.7
+Media de reward en episodios 2401 a 2500: -77.36052151515001 con exploracion 0.7
+Media de reward en episodios 2501 a 2600: -76.24499072493333 con exploracion 0.7
+Media de reward en episodios 2601 a 2700: -80.71503361616666 con exploracion 0.7
+Media de reward en episodios 2701 a 2800: -80.41611470603333 con exploracion 0.7
+Media de reward en episodios 2801 a 2900: -86.68376373414998 con exploracion 0.7
+Media de reward en episodios 2901 a 3000: -80.97618268956667 con exploracion 0.7
+Media de reward en episodios 3001 a 3100: -81.77988351736666 con exploracion 0.7
+Media de reward en episodios 3101 a 3200: -73.74427825411668 con exploracion 0.7
+Media de reward en episodios 3201 a 3300: -82.32320261281667 con exploracion 0.7
+Media de reward en episodios 3301 a 3400: -77.95202480426667 con exploracion 0.7
+Media de reward en episodios 3401 a 3500: -76.47394869151667 con exploracion 0.7
+Media de reward en episodios 3501 a 3600: -74.58925600458333 con exploracion 0.7
+Media de reward en episodios 3601 a 3700: -76.85429774308334 con exploracion 0.7
+Media de reward en episodios 3701 a 3800: -73.16057953015 con exploracion 0.7
+Media de reward en episodios 3801 a 3900: -74.98948671145 con exploracion 0.7
+Media de reward en episodios 3901 a 4000: -68.8753833506 con exploracion 0.7
+Media de reward en episodios 4001 a 4100: -81.81188065281667 con exploracion 0.7
+Media de reward en episodios 4101 a 4200: -79.79201765306668 con exploracion 0.7
+Media de reward en episodios 4201 a 4300: -77.66492801426666 con exploracion 0.7
+Media de reward en episodios 4301 a 4400: -78.83542406634999 con exploracion 0.7
+Media de reward en episodios 4401 a 4500: -75.86371348366667 con exploracion 0.7
+Media de reward en episodios 4501 a 4600: -75.05238724466668 con exploracion 0.7
+Media de reward en episodios 4601 a 4700: -74.32713068090001 con exploracion 0.7
+Media de reward en episodios 4701 a 4800: -78.05350541298334 con exploracion 0.7
+Media de reward en episodios 4801 a 4900: -73.47654646981667 con exploracion 0.7
+Media de reward en episodios 4901 a 5000: -77.31272414103334 con exploracion 0.7
+Media de reward en episodios 5001 a 5100: -54.34043193730001 con exploracion 0.3
+Media de reward en episodios 5101 a 5200: -56.24960822045 con exploracion 0.3
+Media de reward en episodios 5201 a 5300: -54.45161864433334 con exploracion 0.3
+Media de reward en episodios 5301 a 5400: -60.37522348986667 con exploracion 0.3
+Media de reward en episodios 5401 a 5500: -56.882997050650005 con exploracion 0.3
+Media de reward en episodios 5501 a 5600: -55.660327422083334 con exploracion 0.25
+Media de reward en episodios 5601 a 5700: -61.192467091333334 con exploracion 0.25
+Media de reward en episodios 5701 a 5800: -61.692569883649995 con exploracion 0.25
+Media de reward en episodios 5801 a 5900: -62.95883973673333 con exploracion 0.25
+Media de reward en episodios 5901 a 6000: -71.32366354616669 con exploracion 0.25
+Media de reward en episodios 6001 a 6100: -68.67525422668334 con exploracion 0.25
+Media de reward en episodios 6101 a 6200: -73.70790206525 con exploracion 0.25
+Media de reward en episodios 6201 a 6300: -67.28593398283333 con exploracion 0.25
+Media de reward en episodios 6301 a 6400: -76.11501851538334 con exploracion 0.25
+Tipo: <class 'numpy.ndarray'>
+Shape: (20, 20, 15)
+Tamaï¿½o en memoria (MB): 0.0457763671875
+Reading config from C:\Users\npere\bluesky\settings.cfg
+Reading magnetic variation data
+Loading global navigation database...
+Reading cache: C:\Users\npere\bluesky\cache\navdata.p
+Attempt to reimplement AREA from <bound method Area.set_area of <bluesky.plugins.area.Area object at 0x00000255C8547670>> to <bound method Area.set_area of <bluesky.plugins.area.Area object at 0x00000255C8547670>>
+Attempt to reimplement EXP from <function init_plugin.<locals>.<lambda> at 0x00000255B9B4F910> to <function init_plugin.<locals>.<lambda> at 0x00000255C84EBEB0>
+Attempt to reimplement TAXI from <bound method Area.set_taxi of <bluesky.plugins.area.Area object at 0x00000255C8547670>> to <bound method Area.set_taxi of <bluesky.plugins.area.Area object at 0x00000255C8547670>>
+Successfully loaded plugin AREA
+Attempt to reimplement DATAFEED from <bound method Modesbeast.toggle of <bluesky.plugins.adsbfeed.Modesbeast object at 0x00000255C8546170>> to <bound method Modesbeast.toggle of <bluesky.plugins.adsbfeed.Modesbeast object at 0x00000255C84C1CF0>>
+Successfully loaded plugin DATAFEED
+Attempt to reimplement PLUGINS from <function init.<locals>.manage at 0x00000255C853D510> to <function init.<locals>.manage at 0x00000255A2753E20>
+Attempt to reimplement ADDNODES from <bound method Node.addnodes of <bluesky.network.detached.Node object at 0x00000255C8496200>> to <bound method Node.addnodes of <bluesky.network.detached.Node object at 0x00000255C2E60F70>>
+Attempt to reimplement AIRWAY from <bound method Traffic.airwaycmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.airwaycmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement ATALT from <bound method Condition.ataltcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>> to <bound method Condition.ataltcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>>
+Attempt to reimplement ATDIST from <bound method Condition.atdistcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>> to <bound method Condition.atdistcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>>
+Attempt to reimplement ATSPD from <bound method Condition.atspdcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>> to <bound method Condition.atspdcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>>
+Attempt to reimplement BANK from <bound method Traffic.setbanklim of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.setbanklim of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement BATCH from <bound method Simulation.batch of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.batch of <bluesky.simulation.simulation.Simulation object at 0x00000255C856F2E0>>
+Attempt to reimplement BLUESKY from <function singbluesky at 0x00000255BA134D30> to <function singbluesky at 0x00000255BA134D30>
+Attempt to reimplement BENCHMARK from <bound method Simulation.benchmark of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.benchmark of <bluesky.simulation.simulation.Simulation object at 0x00000255C856F2E0>>
+Attempt to reimplement BOX from <function initbasecmds.<locals>.<lambda> at 0x00000255C84E96C0> to <function initbasecmds.<locals>.<lambda> at 0x00000255A2753E20>
+Attempt to reimplement CALC from <function calculator at 0x00000255BA134CA0> to <function calculator at 0x00000255BA134CA0>
+Attempt to reimplement CASMACHTHR from <function casmachthr at 0x00000255BA0E1000> to <function casmachthr at 0x00000255BA0E1000>
+Attempt to reimplement CD from <function setscenpath at 0x00000255BA134E50> to <function setscenpath at 0x00000255BA134E50>
+Attempt to reimplement CIRCLE from <function initbasecmds.<locals>.<lambda> at 0x00000255C853D5A0> to <function initbasecmds.<locals>.<lambda> at 0x00000255A2753B50>
+Attempt to reimplement CLRCRECMD from <bound method Traffic.clrcrecmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.clrcrecmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement CRE from <bound method Traffic.cre of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.cre of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement CRECMD from <bound method Traffic.crecmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.crecmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement CRECONFS from <bound method Traffic.creconfs of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.creconfs of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement DATE from <bound method Simulation.setutc of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.setutc of <bluesky.simulation.simulation.Simulation object at 0x00000255C856F2E0>>
+Attempt to reimplement DEFWPT from <bound method Navdatabase.defwpt of <bluesky.navdatabase.navdatabase.Navdatabase object at 0x00000255A27D5450>> to <bound method Navdatabase.defwpt of <bluesky.navdatabase.navdatabase.Navdatabase object at 0x00000255E0F71C30>>
+Attempt to reimplement DEL from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DA20> to <function initbasecmds.<locals>.<lambda> at 0x00000255E12913F0>
+Attempt to reimplement DIST from <function distcalc at 0x00000255BA134DC0> to <function distcalc at 0x00000255BA134DC0>
+Attempt to reimplement DOC from <bound method ScreenIO.show_cmd_doc of <bluesky.simulation.screenio.ScreenIO object at 0x00000255C8494FA0>> to <bound method ScreenIO.show_cmd_doc of <bluesky.simulation.screenio.ScreenIO object at 0x00000255C8494FA0>>
+Attempt to reimplement DT from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DAB0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E1291B40>
+Attempt to reimplement DTMULT from <bound method Simulation.set_dtmult of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.set_dtmult of <bluesky.simulation.simulation.Simulation object at 0x00000255C856F2E0>>
+Attempt to reimplement ECHO from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DB40> to <function initbasecmds.<locals>.<lambda> at 0x00000255E1290A60>
+Attempt to reimplement FF from <bound method Simulation.fastforward of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.fastforward of <bluesky.simulation.simulation.Simulation object at 0x00000255C856F2E0>>
+Attempt to reimplement FIXDT from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DBD0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E1290D30>
+Attempt to reimplement GROUP from <bound method TrafficGroups.group of <bluesky.traffic.trafficgroups.TrafficGroups object at 0x00000255C846E8C0>> to <bound method TrafficGroups.group of <bluesky.traffic.trafficgroups.TrafficGroups object at 0x00000255C846E8C0>>
+Attempt to reimplement HOLD from <bound method Simulation.hold of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.hold of <bluesky.simulation.simulation.Simulation object at 0x00000255C856F2E0>>
+Attempt to reimplement IMPLEMENTATION from <function select_implementation at 0x00000255BA081630> to <function select_implementation at 0x00000255BA081630>
+Attempt to reimplement INSEDIT from <bound method ScreenIO.cmdline of <bluesky.simulation.screenio.ScreenIO object at 0x00000255C8494FA0>> to <bound method ScreenIO.cmdline of <bluesky.simulation.screenio.ScreenIO object at 0x00000255C8494FA0>>
+Attempt to reimplement LEGEND from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DC60> to <function initbasecmds.<locals>.<lambda> at 0x00000255E1290700>
+Attempt to reimplement LINE from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DCF0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E1292B00>
+Attempt to reimplement LSVAR from <function lsvar at 0x00000255BA0B9120> to <function lsvar at 0x00000255BA0B9120>
+Attempt to reimplement MAGVAR from <function magdeccmd at 0x00000255BA0E2F80> to <function magdeccmd at 0x00000255BA0E2F80>
+Attempt to reimplement MCRE from <bound method Traffic.mcre of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.mcre of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement MOVE from <bound method Traffic.move of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.move of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement NOISE from <bound method Traffic.setnoise of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.setnoise of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement OP from <bound method Simulation.op of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.op of <bluesky.simulation.simulation.Simulation object at 0x00000255C856F2E0>>
+Attempt to reimplement PLOT from <function plot at 0x00000255BA1343A0> to <function plot at 0x00000255BA1343A0>
+Attempt to reimplement POLY from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DD80> to <function initbasecmds.<locals>.<lambda> at 0x00000255E12905E0>
+Attempt to reimplement POLYALT from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DE10> to <function initbasecmds.<locals>.<lambda> at 0x00000255E1290E50>
+Attempt to reimplement POLYLINE from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DEA0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E1290EE0>
+Attempt to reimplement POS from <bound method Traffic.poscommand of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.poscommand of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement REALTIME from <bound method Simulation.realtime of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.realtime of <bluesky.simulation.simulation.Simulation object at 0x00000255C856F2E0>>
+Attempt to reimplement RESET from <bound method Simulation.reset of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.reset of <bluesky.simulation.simulation.Simulation object at 0x00000255C856F2E0>>
+Attempt to reimplement SEED from <function Simulation.setseed at 0x00000255BA1370A0> to <function Simulation.setseed at 0x00000255BA1370A0>
+Attempt to reimplement THR from <bound method Traffic.setthrottle of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.setthrottle of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement TIME from <bound method Simulation.setutc of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.setutc of <bluesky.simulation.simulation.Simulation object at 0x00000255C856F2E0>>
+Attempt to reimplement TRAIL from <bound method Trails.setTrails of <bluesky.traffic.trails.Trails object at 0x00000255C2E60850>> to <bound method Trails.setTrails of <bluesky.traffic.trails.Trails object at 0x00000255C2E60850>>
+Attempt to reimplement UNGROUP from <bound method TrafficGroups.ungroup of <bluesky.traffic.trafficgroups.TrafficGroups object at 0x00000255C846E8C0>> to <bound method TrafficGroups.ungroup of <bluesky.traffic.trafficgroups.TrafficGroups object at 0x00000255C846E8C0>>
+Recompensa media en 100 episodios: -73.21622290254999
+Recompensa minima: -150.37689171
+Recompensa maxima: -28.974915535
+Pasos promedio por episodio: 39.78
+Tipo: <class 'numpy.ndarray'>
+Shape: (20, 20, 15)
+Tamaï¿½o en memoria (MB): 0.0457763671875
+Media de reward en episodios 1 a 100: -82.8601444036 con exploracion 0.7
+Media de reward en episodios 101 a 200: -79.13511719265 con exploracion 0.7
+Media de reward en episodios 201 a 300: -80.02987076225 con exploracion 0.7
+Media de reward en episodios 301 a 400: -76.69097223486666 con exploracion 0.7
+Media de reward en episodios 401 a 500: -79.11072328945 con exploracion 0.7
+Media de reward en episodios 501 a 600: -76.65988695003333 con exploracion 0.7
+Media de reward en episodios 601 a 700: -77.04389492778333 con exploracion 0.7
+Media de reward en episodios 701 a 800: -78.47306321741668 con exploracion 0.7
+Media de reward en episodios 801 a 900: -76.57213044428333 con exploracion 0.7
+Media de reward en episodios 901 a 1000: -78.65516658135 con exploracion 0.7
+Media de reward en episodios 1001 a 1100: -81.17879863196669 con exploracion 0.7
+Media de reward en episodios 1101 a 1200: -75.20895237981668 con exploracion 0.7
+Media de reward en episodios 1201 a 1300: -80.78649270278335 con exploracion 0.7
+Media de reward en episodios 1301 a 1400: -80.18849821525001 con exploracion 0.7
+Media de reward en episodios 1401 a 1500: -75.61432746988334 con exploracion 0.7
+Media de reward en episodios 1501 a 1600: -74.30018262186667 con exploracion 0.7
+Media de reward en episodios 1601 a 1700: -79.90398042861666 con exploracion 0.7
+Media de reward en episodios 1701 a 1800: -79.93295335698335 con exploracion 0.7
+Media de reward en episodios 1801 a 1900: -77.60465509923334 con exploracion 0.7
+Media de reward en episodios 1901 a 2000: -75.76023304273335 con exploracion 0.7
+Media de reward en episodios 2001 a 2100: -81.32210915388333 con exploracion 0.7
+Media de reward en episodios 2101 a 2200: -78.32934999803334 con exploracion 0.7
+Media de reward en episodios 2201 a 2300: -73.80517159548333 con exploracion 0.7
+Media de reward en episodios 2301 a 2400: -73.98335154128334 con exploracion 0.7
+Media de reward en episodios 2401 a 2500: -74.69962555116668 con exploracion 0.7
+Media de reward en episodios 2501 a 2600: -77.36885895608333 con exploracion 0.7
+Media de reward en episodios 2601 a 2700: -75.5052141877 con exploracion 0.7
+Media de reward en episodios 2701 a 2800: -73.96305685068333 con exploracion 0.7
+Media de reward en episodios 2801 a 2900: -72.29004991243333 con exploracion 0.7
+Media de reward en episodios 2901 a 3000: -75.12990628253334 con exploracion 0.7
+Media de reward en episodios 3001 a 3100: -75.97924197138333 con exploracion 0.7
+Media de reward en episodios 3101 a 3200: -76.13087233396666 con exploracion 0.7
+Media de reward en episodios 3201 a 3300: -73.27818840231666 con exploracion 0.7
+Media de reward en episodios 3301 a 3400: -78.03233861936667 con exploracion 0.7
+Media de reward en episodios 3401 a 3500: -71.24045213691664 con exploracion 0.7
+Media de reward en episodios 3501 a 3600: -71.20963025648334 con exploracion 0.7
+Media de reward en episodios 3601 a 3700: -73.79169769701667 con exploracion 0.7
+Media de reward en episodios 3701 a 3800: -75.47447790975 con exploracion 0.7
+Media de reward en episodios 3801 a 3900: -74.23048888148334 con exploracion 0.7
+Media de reward en episodios 3901 a 4000: -77.23129066313334 con exploracion 0.7
+Media de reward en episodios 4001 a 4100: -77.33928851578334 con exploracion 0.7
+Media de reward en episodios 4101 a 4200: -78.78270808533334 con exploracion 0.7
+Media de reward en episodios 4201 a 4300: -76.96840506359999 con exploracion 0.7
+Media de reward en episodios 4301 a 4400: -76.83380410705 con exploracion 0.7
+Media de reward en episodios 4401 a 4500: -75.79044273693334 con exploracion 0.7
+Media de reward en episodios 4501 a 4600: -69.91781482561666 con exploracion 0.7
+Media de reward en episodios 4601 a 4700: -71.14123854551666 con exploracion 0.7
+Media de reward en episodios 4701 a 4800: -78.81291642175 con exploracion 0.7
+Media de reward en episodios 4801 a 4900: -77.92063299840001 con exploracion 0.7
+Media de reward en episodios 4901 a 5000: -73.32085326999999 con exploracion 0.7
+Media de reward en episodios 5001 a 5100: -72.9235329017 con exploracion 0.7
+Media de reward en episodios 5101 a 5200: -75.5125558622 con exploracion 0.7
+Media de reward en episodios 5201 a 5300: -72.90288744358334 con exploracion 0.7
+Media de reward en episodios 5301 a 5400: -77.61039088796666 con exploracion 0.7
+Media de reward en episodios 5401 a 5500: -76.17421330308333 con exploracion 0.7
+Recompensa media en 100 episodios: -56.35980573373333
+Recompensa minima: -124.235596875
+Recompensa maxima: -23.147890606666667
+Pasos promedio por episodio: 39.94
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Media de reward en episodios 1 a 100: -74.90828622351667 con exploracion 0.7
+Media de reward en episodios 101 a 200: -77.43701405076666 con exploracion 0.7
+Media de reward en episodios 201 a 300: -70.49627957451666 con exploracion 0.7
+Media de reward en episodios 301 a 400: -70.05476894204999 con exploracion 0.7
+Media de reward en episodios 401 a 500: -74.06479337981666 con exploracion 0.7
+Media de reward en episodios 501 a 600: -75.58880356573333 con exploracion 0.7
+Media de reward en episodios 601 a 700: -71.04824138558334 con exploracion 0.7
+Media de reward en episodios 701 a 800: -74.26125942193333 con exploracion 0.7
+Media de reward en episodios 801 a 900: -70.96262377986668 con exploracion 0.7
+Media de reward en episodios 901 a 1000: -72.27088274818333 con exploracion 0.7
+Media de reward en episodios 1001 a 1100: -73.53871878669999 con exploracion 0.7
+Media de reward en episodios 1101 a 1200: -72.15216894908335 con exploracion 0.7
+Media de reward en episodios 1201 a 1300: -71.71622579231665 con exploracion 0.7
+Media de reward en episodios 1301 a 1400: -73.48347069338334 con exploracion 0.7
+Media de reward en episodios 1401 a 1500: -70.48831758855 con exploracion 0.7
+Media de reward en episodios 1501 a 1600: -72.93867288981666 con exploracion 0.7
+Media de reward en episodios 1601 a 1700: -74.23798974401666 con exploracion 0.7
+Media de reward en episodios 1701 a 1800: -71.52998518506666 con exploracion 0.7
+Media de reward en episodios 1801 a 1900: -73.63048029623334 con exploracion 0.7
+Media de reward en episodios 1901 a 2000: -67.09915835818335 con exploracion 0.7
+Media de reward en episodios 2001 a 2100: -71.00488082810001 con exploracion 0.7
+Media de reward en episodios 2101 a 2200: -77.36520851066668 con exploracion 0.7
+Media de reward en episodios 2201 a 2300: -74.76020871638335 con exploracion 0.7
+Media de reward en episodios 2301 a 2400: -72.66589044108333 con exploracion 0.7
+Media de reward en episodios 2401 a 2500: -76.18540636943334 con exploracion 0.7
+Media de reward en episodios 2501 a 2600: -74.87019721123333 con exploracion 0.7
+Media de reward en episodios 2601 a 2700: -71.37337317308334 con exploracion 0.7
+Media de reward en episodios 2701 a 2800: -73.05835530489999 con exploracion 0.7
+Media de reward en episodios 2801 a 2900: -74.05687133178334 con exploracion 0.7
+Media de reward en episodios 2901 a 3000: -75.81159819426667 con exploracion 0.7
+Media de reward en episodios 3001 a 3100: -72.80631877456668 con exploracion 0.7
+Media de reward en episodios 3101 a 3200: -72.97218166841667 con exploracion 0.7
+Media de reward en episodios 3201 a 3300: -71.92175005781665 con exploracion 0.7
+Media de reward en episodios 3301 a 3400: -79.49223263638333 con exploracion 0.7
+Media de reward en episodios 3401 a 3500: -74.69126638935 con exploracion 0.7
+Media de reward en episodios 3501 a 3600: -79.14160140595 con exploracion 0.7
+Media de reward en episodios 3601 a 3700: -76.80094002438332 con exploracion 0.7
+Media de reward en episodios 3701 a 3800: -72.45437736665001 con exploracion 0.7
+Media de reward en episodios 3801 a 3900: -71.29612145718333 con exploracion 0.7
+Media de reward en episodios 3901 a 4000: -75.71975404333334 con exploracion 0.7
+Media de reward en episodios 4001 a 4100: -71.91032312826667 con exploracion 0.7
+Media de reward en episodios 4101 a 4200: -77.01672469311667 con exploracion 0.7
+Tipo: <class 'numpy.ndarray'>
+Shape: (20, 20, 15)
+Tamaño en memoria (MB): 0.0457763671875
+Reading config from C:\Users\npere\bluesky\settings.cfg
+Reading magnetic variation data
+Loading global navigation database...
+Reading cache: C:\Users\npere\bluesky\cache\navdata.p
+Attempt to reimplement AREA from <bound method Area.set_area of <bluesky.plugins.area.Area object at 0x00000255C8547670>> to <bound method Area.set_area of <bluesky.plugins.area.Area object at 0x00000255C8547670>>
+Attempt to reimplement EXP from <function init_plugin.<locals>.<lambda> at 0x00000255B9B4F910> to <function init_plugin.<locals>.<lambda> at 0x00000255E12911B0>
+Attempt to reimplement TAXI from <bound method Area.set_taxi of <bluesky.plugins.area.Area object at 0x00000255C8547670>> to <bound method Area.set_taxi of <bluesky.plugins.area.Area object at 0x00000255C8547670>>
+Successfully loaded plugin AREA
+Attempt to reimplement DATAFEED from <bound method Modesbeast.toggle of <bluesky.plugins.adsbfeed.Modesbeast object at 0x00000255C8546170>> to <bound method Modesbeast.toggle of <bluesky.plugins.adsbfeed.Modesbeast object at 0x00000255E0EDEFE0>>
+Successfully loaded plugin DATAFEED
+Attempt to reimplement PLUGINS from <function init.<locals>.manage at 0x00000255C853D510> to <function init.<locals>.manage at 0x00000255E1291360>
+Attempt to reimplement ADDNODES from <bound method Node.addnodes of <bluesky.network.detached.Node object at 0x00000255C8496200>> to <bound method Node.addnodes of <bluesky.network.detached.Node object at 0x00000255E0F71C60>>
+Attempt to reimplement AIRWAY from <bound method Traffic.airwaycmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.airwaycmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement ATALT from <bound method Condition.ataltcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>> to <bound method Condition.ataltcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>>
+Attempt to reimplement ATDIST from <bound method Condition.atdistcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>> to <bound method Condition.atdistcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>>
+Attempt to reimplement ATSPD from <bound method Condition.atspdcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>> to <bound method Condition.atspdcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>>
+Attempt to reimplement BANK from <bound method Traffic.setbanklim of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.setbanklim of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement BATCH from <bound method Simulation.batch of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.batch of <bluesky.simulation.simulation.Simulation object at 0x00000255A2787E80>>
+Attempt to reimplement BLUESKY from <function singbluesky at 0x00000255BA134D30> to <function singbluesky at 0x00000255BA134D30>
+Attempt to reimplement BENCHMARK from <bound method Simulation.benchmark of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.benchmark of <bluesky.simulation.simulation.Simulation object at 0x00000255A2787E80>>
+Attempt to reimplement BOX from <function initbasecmds.<locals>.<lambda> at 0x00000255C84E96C0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E1291360>
+Attempt to reimplement CALC from <function calculator at 0x00000255BA134CA0> to <function calculator at 0x00000255BA134CA0>
+Attempt to reimplement CASMACHTHR from <function casmachthr at 0x00000255BA0E1000> to <function casmachthr at 0x00000255BA0E1000>
+Attempt to reimplement CD from <function setscenpath at 0x00000255BA134E50> to <function setscenpath at 0x00000255BA134E50>
+Attempt to reimplement CIRCLE from <function initbasecmds.<locals>.<lambda> at 0x00000255C853D5A0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E1290AF0>
+Attempt to reimplement CLRCRECMD from <bound method Traffic.clrcrecmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.clrcrecmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement CRE from <bound method Traffic.cre of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.cre of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement CRECMD from <bound method Traffic.crecmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.crecmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement CRECONFS from <bound method Traffic.creconfs of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.creconfs of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement DATE from <bound method Simulation.setutc of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.setutc of <bluesky.simulation.simulation.Simulation object at 0x00000255A2787E80>>
+Attempt to reimplement DEFWPT from <bound method Navdatabase.defwpt of <bluesky.navdatabase.navdatabase.Navdatabase object at 0x00000255A27D5450>> to <bound method Navdatabase.defwpt of <bluesky.navdatabase.navdatabase.Navdatabase object at 0x00000255C856F7F0>>
+Attempt to reimplement DEL from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DA20> to <function initbasecmds.<locals>.<lambda> at 0x00000255E0F58310>
+Attempt to reimplement DIST from <function distcalc at 0x00000255BA134DC0> to <function distcalc at 0x00000255BA134DC0>
+Attempt to reimplement DOC from <bound method ScreenIO.show_cmd_doc of <bluesky.simulation.screenio.ScreenIO object at 0x00000255C8494FA0>> to <bound method ScreenIO.show_cmd_doc of <bluesky.simulation.screenio.ScreenIO object at 0x00000255C8494FA0>>
+Attempt to reimplement DT from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DAB0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E0F58700>
+Attempt to reimplement DTMULT from <bound method Simulation.set_dtmult of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.set_dtmult of <bluesky.simulation.simulation.Simulation object at 0x00000255A2787E80>>
+Attempt to reimplement ECHO from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DB40> to <function initbasecmds.<locals>.<lambda> at 0x00000255BA0B96C0>
+Attempt to reimplement FF from <bound method Simulation.fastforward of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.fastforward of <bluesky.simulation.simulation.Simulation object at 0x00000255A2787E80>>
+Attempt to reimplement FIXDT from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DBD0> to <function initbasecmds.<locals>.<lambda> at 0x00000255BA0B9750>
+Attempt to reimplement GROUP from <bound method TrafficGroups.group of <bluesky.traffic.trafficgroups.TrafficGroups object at 0x00000255C846E8C0>> to <bound method TrafficGroups.group of <bluesky.traffic.trafficgroups.TrafficGroups object at 0x00000255C846E8C0>>
+Attempt to reimplement HOLD from <bound method Simulation.hold of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.hold of <bluesky.simulation.simulation.Simulation object at 0x00000255A2787E80>>
+Attempt to reimplement IMPLEMENTATION from <function select_implementation at 0x00000255BA081630> to <function select_implementation at 0x00000255BA081630>
+Attempt to reimplement INSEDIT from <bound method ScreenIO.cmdline of <bluesky.simulation.screenio.ScreenIO object at 0x00000255C8494FA0>> to <bound method ScreenIO.cmdline of <bluesky.simulation.screenio.ScreenIO object at 0x00000255C8494FA0>>
+Attempt to reimplement LEGEND from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DC60> to <function initbasecmds.<locals>.<lambda> at 0x00000255E11B2F80>
+Attempt to reimplement LINE from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DCF0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E11B2950>
+Attempt to reimplement LSVAR from <function lsvar at 0x00000255BA0B9120> to <function lsvar at 0x00000255BA0B9120>
+Attempt to reimplement MAGVAR from <function magdeccmd at 0x00000255BA0E2F80> to <function magdeccmd at 0x00000255BA0E2F80>
+Attempt to reimplement MCRE from <bound method Traffic.mcre of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.mcre of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement MOVE from <bound method Traffic.move of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.move of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement NOISE from <bound method Traffic.setnoise of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.setnoise of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement OP from <bound method Simulation.op of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.op of <bluesky.simulation.simulation.Simulation object at 0x00000255A2787E80>>
+Attempt to reimplement PLOT from <function plot at 0x00000255BA1343A0> to <function plot at 0x00000255BA1343A0>
+Attempt to reimplement POLY from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DD80> to <function initbasecmds.<locals>.<lambda> at 0x00000255E11B2A70>
+Attempt to reimplement POLYALT from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DE10> to <function initbasecmds.<locals>.<lambda> at 0x00000255E11B17E0>
+Attempt to reimplement POLYLINE from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DEA0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E11B1EA0>
+Attempt to reimplement POS from <bound method Traffic.poscommand of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.poscommand of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement REALTIME from <bound method Simulation.realtime of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.realtime of <bluesky.simulation.simulation.Simulation object at 0x00000255A2787E80>>
+Attempt to reimplement RESET from <bound method Simulation.reset of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.reset of <bluesky.simulation.simulation.Simulation object at 0x00000255A2787E80>>
+Attempt to reimplement SEED from <function Simulation.setseed at 0x00000255BA1370A0> to <function Simulation.setseed at 0x00000255BA1370A0>
+Attempt to reimplement THR from <bound method Traffic.setthrottle of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.setthrottle of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement TIME from <bound method Simulation.setutc of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.setutc of <bluesky.simulation.simulation.Simulation object at 0x00000255A2787E80>>
+Attempt to reimplement TRAIL from <bound method Trails.setTrails of <bluesky.traffic.trails.Trails object at 0x00000255C2E60850>> to <bound method Trails.setTrails of <bluesky.traffic.trails.Trails object at 0x00000255C2E60850>>
+Attempt to reimplement UNGROUP from <bound method TrafficGroups.ungroup of <bluesky.traffic.trafficgroups.TrafficGroups object at 0x00000255C846E8C0>> to <bound method TrafficGroups.ungroup of <bluesky.traffic.trafficgroups.TrafficGroups object at 0x00000255C846E8C0>>
+Recompensa media en 100 episodios: -40.9722659558
+Recompensa minima: -125.94487844833333
+Recompensa maxima: -15.483113656666667
+Pasos promedio por episodio: 40.52
+Reading config from C:\Users\npere\bluesky\settings.cfg
+Reading magnetic variation data
+Loading global navigation database...
+Reading cache: C:\Users\npere\bluesky\cache\navdata.p
+Attempt to reimplement AREA from <bound method Area.set_area of <bluesky.plugins.area.Area object at 0x00000255C8547670>> to <bound method Area.set_area of <bluesky.plugins.area.Area object at 0x00000255C8547670>>
+Attempt to reimplement EXP from <function init_plugin.<locals>.<lambda> at 0x00000255B9B4F910> to <function init_plugin.<locals>.<lambda> at 0x00000255C863BD90>
+Attempt to reimplement TAXI from <bound method Area.set_taxi of <bluesky.plugins.area.Area object at 0x00000255C8547670>> to <bound method Area.set_taxi of <bluesky.plugins.area.Area object at 0x00000255C8547670>>
+Successfully loaded plugin AREA
+Attempt to reimplement DATAFEED from <bound method Modesbeast.toggle of <bluesky.plugins.adsbfeed.Modesbeast object at 0x00000255C8546170>> to <bound method Modesbeast.toggle of <bluesky.plugins.adsbfeed.Modesbeast object at 0x00000255E10DA860>>
+Successfully loaded plugin DATAFEED
+Attempt to reimplement PLUGINS from <function init.<locals>.manage at 0x00000255C853D510> to <function init.<locals>.manage at 0x00000255C863BE20>
+Attempt to reimplement ADDNODES from <bound method Node.addnodes of <bluesky.network.detached.Node object at 0x00000255C8496200>> to <bound method Node.addnodes of <bluesky.network.detached.Node object at 0x00000255E0F71C00>>
+Attempt to reimplement AIRWAY from <bound method Traffic.airwaycmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.airwaycmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement ATALT from <bound method Condition.ataltcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>> to <bound method Condition.ataltcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>>
+Attempt to reimplement ATDIST from <bound method Condition.atdistcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>> to <bound method Condition.atdistcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>>
+Attempt to reimplement ATSPD from <bound method Condition.atspdcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>> to <bound method Condition.atspdcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>>
+Attempt to reimplement BANK from <bound method Traffic.setbanklim of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.setbanklim of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement BATCH from <bound method Simulation.batch of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.batch of <bluesky.simulation.simulation.Simulation object at 0x00000255C85B95D0>>
+Attempt to reimplement BLUESKY from <function singbluesky at 0x00000255BA134D30> to <function singbluesky at 0x00000255BA134D30>
+Attempt to reimplement BENCHMARK from <bound method Simulation.benchmark of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.benchmark of <bluesky.simulation.simulation.Simulation object at 0x00000255C85B95D0>>
+Attempt to reimplement BOX from <function initbasecmds.<locals>.<lambda> at 0x00000255C84E96C0> to <function initbasecmds.<locals>.<lambda> at 0x00000255C863BE20>
+Attempt to reimplement CALC from <function calculator at 0x00000255BA134CA0> to <function calculator at 0x00000255BA134CA0>
+Attempt to reimplement CASMACHTHR from <function casmachthr at 0x00000255BA0E1000> to <function casmachthr at 0x00000255BA0E1000>
+Attempt to reimplement CD from <function setscenpath at 0x00000255BA134E50> to <function setscenpath at 0x00000255BA134E50>
+Attempt to reimplement CIRCLE from <function initbasecmds.<locals>.<lambda> at 0x00000255C853D5A0> to <function initbasecmds.<locals>.<lambda> at 0x00000255C863BEB0>
+Attempt to reimplement CLRCRECMD from <bound method Traffic.clrcrecmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.clrcrecmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement CRE from <bound method Traffic.cre of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.cre of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement CRECMD from <bound method Traffic.crecmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.crecmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement CRECONFS from <bound method Traffic.creconfs of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.creconfs of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement DATE from <bound method Simulation.setutc of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.setutc of <bluesky.simulation.simulation.Simulation object at 0x00000255C85B95D0>>
+Attempt to reimplement DEFWPT from <bound method Navdatabase.defwpt of <bluesky.navdatabase.navdatabase.Navdatabase object at 0x00000255A27D5450>> to <bound method Navdatabase.defwpt of <bluesky.navdatabase.navdatabase.Navdatabase object at 0x00000255E0F71BA0>>
+Attempt to reimplement DEL from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DA20> to <function initbasecmds.<locals>.<lambda> at 0x00000255C8647D00>
+Attempt to reimplement DIST from <function distcalc at 0x00000255BA134DC0> to <function distcalc at 0x00000255BA134DC0>
+Attempt to reimplement DOC from <bound method ScreenIO.show_cmd_doc of <bluesky.simulation.screenio.ScreenIO object at 0x00000255C8494FA0>> to <bound method ScreenIO.show_cmd_doc of <bluesky.simulation.screenio.ScreenIO object at 0x00000255C8494FA0>>
+Attempt to reimplement DT from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DAB0> to <function initbasecmds.<locals>.<lambda> at 0x00000255C8644040>
+Attempt to reimplement DTMULT from <bound method Simulation.set_dtmult of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.set_dtmult of <bluesky.simulation.simulation.Simulation object at 0x00000255C85B95D0>>
+Attempt to reimplement ECHO from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DB40> to <function initbasecmds.<locals>.<lambda> at 0x00000255E11B0820>
+Attempt to reimplement FF from <bound method Simulation.fastforward of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.fastforward of <bluesky.simulation.simulation.Simulation object at 0x00000255C85B95D0>>
+Attempt to reimplement FIXDT from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DBD0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E11B0DC0>
+Attempt to reimplement GROUP from <bound method TrafficGroups.group of <bluesky.traffic.trafficgroups.TrafficGroups object at 0x00000255C846E8C0>> to <bound method TrafficGroups.group of <bluesky.traffic.trafficgroups.TrafficGroups object at 0x00000255C846E8C0>>
+Attempt to reimplement HOLD from <bound method Simulation.hold of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.hold of <bluesky.simulation.simulation.Simulation object at 0x00000255C85B95D0>>
+Attempt to reimplement IMPLEMENTATION from <function select_implementation at 0x00000255BA081630> to <function select_implementation at 0x00000255BA081630>
+Attempt to reimplement INSEDIT from <bound method ScreenIO.cmdline of <bluesky.simulation.screenio.ScreenIO object at 0x00000255C8494FA0>> to <bound method ScreenIO.cmdline of <bluesky.simulation.screenio.ScreenIO object at 0x00000255C8494FA0>>
+Attempt to reimplement LEGEND from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DC60> to <function initbasecmds.<locals>.<lambda> at 0x00000255E11B0D30>
+Attempt to reimplement LINE from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DCF0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E11B0790>
+Attempt to reimplement LSVAR from <function lsvar at 0x00000255BA0B9120> to <function lsvar at 0x00000255BA0B9120>
+Attempt to reimplement MAGVAR from <function magdeccmd at 0x00000255BA0E2F80> to <function magdeccmd at 0x00000255BA0E2F80>
+Attempt to reimplement MCRE from <bound method Traffic.mcre of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.mcre of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement MOVE from <bound method Traffic.move of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.move of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement NOISE from <bound method Traffic.setnoise of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.setnoise of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement OP from <bound method Simulation.op of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.op of <bluesky.simulation.simulation.Simulation object at 0x00000255C85B95D0>>
+Attempt to reimplement PLOT from <function plot at 0x00000255BA1343A0> to <function plot at 0x00000255BA1343A0>
+Attempt to reimplement POLY from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DD80> to <function initbasecmds.<locals>.<lambda> at 0x00000255E11B0A60>
+Attempt to reimplement POLYALT from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DE10> to <function initbasecmds.<locals>.<lambda> at 0x00000255E1293010>
+Attempt to reimplement POLYLINE from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DEA0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E1291CF0>
+Attempt to reimplement POS from <bound method Traffic.poscommand of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.poscommand of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement REALTIME from <bound method Simulation.realtime of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.realtime of <bluesky.simulation.simulation.Simulation object at 0x00000255C85B95D0>>
+Attempt to reimplement RESET from <bound method Simulation.reset of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.reset of <bluesky.simulation.simulation.Simulation object at 0x00000255C85B95D0>>
+Attempt to reimplement SEED from <function Simulation.setseed at 0x00000255BA1370A0> to <function Simulation.setseed at 0x00000255BA1370A0>
+Attempt to reimplement THR from <bound method Traffic.setthrottle of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.setthrottle of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement TIME from <bound method Simulation.setutc of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.setutc of <bluesky.simulation.simulation.Simulation object at 0x00000255C85B95D0>>
+Attempt to reimplement TRAIL from <bound method Trails.setTrails of <bluesky.traffic.trails.Trails object at 0x00000255C2E60850>> to <bound method Trails.setTrails of <bluesky.traffic.trails.Trails object at 0x00000255C2E60850>>
+Attempt to reimplement UNGROUP from <bound method TrafficGroups.ungroup of <bluesky.traffic.trafficgroups.TrafficGroups object at 0x00000255C846E8C0>> to <bound method TrafficGroups.ungroup of <bluesky.traffic.trafficgroups.TrafficGroups object at 0x00000255C846E8C0>>
+[VideoRecorderWrapper] Saving video to videos\episode_0_20250619_213318.mp4
+Tipo: <class 'numpy.ndarray'>
+Shape: (20, 20, 15)
+Tamaño en memoria (MB): 0.0457763671875
+[VideoRecorderWrapper] Saving video to videos\episode_1_20250619_213502.mp4
+[VideoRecorderWrapper] Saving video to videos\episode_2_20250619_213503.mp4
+[VideoRecorderWrapper] Saving video to videos\episode_3_20250619_213504.mp4
+[VideoRecorderWrapper] Saving video to videos\episode_4_20250619_213506.mp4
+Reading config from C:\Users\npere\bluesky\settings.cfg
+Reading magnetic variation data
+Loading global navigation database...
+Reading cache: C:\Users\npere\bluesky\cache\navdata.p
+Attempt to reimplement AREA from <bound method Area.set_area of <bluesky.plugins.area.Area object at 0x00000255C8547670>> to <bound method Area.set_area of <bluesky.plugins.area.Area object at 0x00000255C8547670>>
+Attempt to reimplement EXP from <function init_plugin.<locals>.<lambda> at 0x00000255B9B4F910> to <function init_plugin.<locals>.<lambda> at 0x00000255C863BF40>
+Attempt to reimplement TAXI from <bound method Area.set_taxi of <bluesky.plugins.area.Area object at 0x00000255C8547670>> to <bound method Area.set_taxi of <bluesky.plugins.area.Area object at 0x00000255C8547670>>
+Successfully loaded plugin AREA
+Attempt to reimplement DATAFEED from <bound method Modesbeast.toggle of <bluesky.plugins.adsbfeed.Modesbeast object at 0x00000255C8546170>> to <bound method Modesbeast.toggle of <bluesky.plugins.adsbfeed.Modesbeast object at 0x00000255E0E8C040>>
+Successfully loaded plugin DATAFEED
+Attempt to reimplement PLUGINS from <function init.<locals>.manage at 0x00000255C853D510> to <function init.<locals>.manage at 0x00000255E123A950>
+Attempt to reimplement ADDNODES from <bound method Node.addnodes of <bluesky.network.detached.Node object at 0x00000255C8496200>> to <bound method Node.addnodes of <bluesky.network.detached.Node object at 0x00000255E0F71C60>>
+Attempt to reimplement AIRWAY from <bound method Traffic.airwaycmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.airwaycmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement ATALT from <bound method Condition.ataltcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>> to <bound method Condition.ataltcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>>
+Attempt to reimplement ATDIST from <bound method Condition.atdistcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>> to <bound method Condition.atdistcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>>
+Attempt to reimplement ATSPD from <bound method Condition.atspdcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>> to <bound method Condition.atspdcmd of <bluesky.traffic.conditional.Condition object at 0x00000255C8496C80>>
+Attempt to reimplement BANK from <bound method Traffic.setbanklim of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.setbanklim of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement BATCH from <bound method Simulation.batch of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.batch of <bluesky.simulation.simulation.Simulation object at 0x00000255C86E5E40>>
+Attempt to reimplement BLUESKY from <function singbluesky at 0x00000255BA134D30> to <function singbluesky at 0x00000255BA134D30>
+Attempt to reimplement BENCHMARK from <bound method Simulation.benchmark of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.benchmark of <bluesky.simulation.simulation.Simulation object at 0x00000255C86E5E40>>
+Attempt to reimplement BOX from <function initbasecmds.<locals>.<lambda> at 0x00000255C84E96C0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E123A950>
+Attempt to reimplement CALC from <function calculator at 0x00000255BA134CA0> to <function calculator at 0x00000255BA134CA0>
+Attempt to reimplement CASMACHTHR from <function casmachthr at 0x00000255BA0E1000> to <function casmachthr at 0x00000255BA0E1000>
+Attempt to reimplement CD from <function setscenpath at 0x00000255BA134E50> to <function setscenpath at 0x00000255BA134E50>
+Attempt to reimplement CIRCLE from <function initbasecmds.<locals>.<lambda> at 0x00000255C853D5A0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E123ADD0>
+Attempt to reimplement CLRCRECMD from <bound method Traffic.clrcrecmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.clrcrecmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement CRE from <bound method Traffic.cre of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.cre of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement CRECMD from <bound method Traffic.crecmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.crecmd of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement CRECONFS from <bound method Traffic.creconfs of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.creconfs of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement DATE from <bound method Simulation.setutc of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.setutc of <bluesky.simulation.simulation.Simulation object at 0x00000255C86E5E40>>
+Attempt to reimplement DEFWPT from <bound method Navdatabase.defwpt of <bluesky.navdatabase.navdatabase.Navdatabase object at 0x00000255A27D5450>> to <bound method Navdatabase.defwpt of <bluesky.navdatabase.navdatabase.Navdatabase object at 0x00000255C86E5150>>
+Attempt to reimplement DEL from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DA20> to <function initbasecmds.<locals>.<lambda> at 0x00000255E123AA70>
+Attempt to reimplement DIST from <function distcalc at 0x00000255BA134DC0> to <function distcalc at 0x00000255BA134DC0>
+Attempt to reimplement DOC from <bound method ScreenIO.show_cmd_doc of <bluesky.simulation.screenio.ScreenIO object at 0x00000255C8494FA0>> to <bound method ScreenIO.show_cmd_doc of <bluesky.simulation.screenio.ScreenIO object at 0x00000255C8494FA0>>
+Attempt to reimplement DT from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DAB0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E1239FC0>
+Attempt to reimplement DTMULT from <bound method Simulation.set_dtmult of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.set_dtmult of <bluesky.simulation.simulation.Simulation object at 0x00000255C86E5E40>>
+Attempt to reimplement ECHO from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DB40> to <function initbasecmds.<locals>.<lambda> at 0x00000255E123A170>
+Attempt to reimplement FF from <bound method Simulation.fastforward of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.fastforward of <bluesky.simulation.simulation.Simulation object at 0x00000255C86E5E40>>
+Attempt to reimplement FIXDT from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DBD0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E123A200>
+Attempt to reimplement GROUP from <bound method TrafficGroups.group of <bluesky.traffic.trafficgroups.TrafficGroups object at 0x00000255C846E8C0>> to <bound method TrafficGroups.group of <bluesky.traffic.trafficgroups.TrafficGroups object at 0x00000255C846E8C0>>
+Attempt to reimplement HOLD from <bound method Simulation.hold of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.hold of <bluesky.simulation.simulation.Simulation object at 0x00000255C86E5E40>>
+Attempt to reimplement IMPLEMENTATION from <function select_implementation at 0x00000255BA081630> to <function select_implementation at 0x00000255BA081630>
+Attempt to reimplement INSEDIT from <bound method ScreenIO.cmdline of <bluesky.simulation.screenio.ScreenIO object at 0x00000255C8494FA0>> to <bound method ScreenIO.cmdline of <bluesky.simulation.screenio.ScreenIO object at 0x00000255C8494FA0>>
+Attempt to reimplement LEGEND from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DC60> to <function initbasecmds.<locals>.<lambda> at 0x00000255E123AB90>
+Attempt to reimplement LINE from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DCF0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E123AC20>
+Attempt to reimplement LSVAR from <function lsvar at 0x00000255BA0B9120> to <function lsvar at 0x00000255BA0B9120>
+Attempt to reimplement MAGVAR from <function magdeccmd at 0x00000255BA0E2F80> to <function magdeccmd at 0x00000255BA0E2F80>
+Attempt to reimplement MCRE from <bound method Traffic.mcre of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.mcre of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement MOVE from <bound method Traffic.move of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.move of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement NOISE from <bound method Traffic.setnoise of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.setnoise of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement OP from <bound method Simulation.op of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.op of <bluesky.simulation.simulation.Simulation object at 0x00000255C86E5E40>>
+Attempt to reimplement PLOT from <function plot at 0x00000255BA1343A0> to <function plot at 0x00000255BA1343A0>
+Attempt to reimplement POLY from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DD80> to <function initbasecmds.<locals>.<lambda> at 0x00000255E123A290>
+Attempt to reimplement POLYALT from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DE10> to <function initbasecmds.<locals>.<lambda> at 0x00000255E123A3B0>
+Attempt to reimplement POLYLINE from <function initbasecmds.<locals>.<lambda> at 0x00000255C853DEA0> to <function initbasecmds.<locals>.<lambda> at 0x00000255E1239F30>
+Attempt to reimplement POS from <bound method Traffic.poscommand of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.poscommand of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement REALTIME from <bound method Simulation.realtime of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.realtime of <bluesky.simulation.simulation.Simulation object at 0x00000255C86E5E40>>
+Attempt to reimplement RESET from <bound method Simulation.reset of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.reset of <bluesky.simulation.simulation.Simulation object at 0x00000255C86E5E40>>
+Attempt to reimplement SEED from <function Simulation.setseed at 0x00000255BA1370A0> to <function Simulation.setseed at 0x00000255BA1370A0>
+Attempt to reimplement THR from <bound method Traffic.setthrottle of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>> to <bound method Traffic.setthrottle of <bluesky.traffic.traffic.Traffic object at 0x00000255C2E60FD0>>
+Attempt to reimplement TIME from <bound method Simulation.setutc of <bluesky.simulation.simulation.Simulation object at 0x00000255A27D56C0>> to <bound method Simulation.setutc of <bluesky.simulation.simulation.Simulation object at 0x00000255C86E5E40>>
+Attempt to reimplement TRAIL from <bound method Trails.setTrails of <bluesky.traffic.trails.Trails object at 0x00000255C2E60850>> to <bound method Trails.setTrails of <bluesky.traffic.trails.Trails object at 0x00000255C2E60850>>
+Attempt to reimplement UNGROUP from <bound method TrafficGroups.ungroup of <bluesky.traffic.trafficgroups.TrafficGroups object at 0x00000255C846E8C0>> to <bound method TrafficGroups.ungroup of <bluesky.traffic.trafficgroups.TrafficGroups object at 0x00000255C846E8C0>>
+Media de reward en episodios 1 a 100: -68.76453825576667 con exploracion 0.7
+Media de reward en episodios 101 a 200: -71.92314260921665 con exploracion 0.7
+Media de reward en episodios 201 a 300: -71.16780820021665 con exploracion 0.7
+Media de reward en episodios 301 a 400: -76.05626526001666 con exploracion 0.7
+Media de reward en episodios 401 a 500: -75.02617541046666 con exploracion 0.7
+Media de reward en episodios 501 a 600: -70.59936924165 con exploracion 0.7
+Media de reward en episodios 601 a 700: -76.84524414228332 con exploracion 0.7
+Media de reward en episodios 701 a 800: -72.00431102748334 con exploracion 0.7
+Media de reward en episodios 801 a 900: -78.2326031956 con exploracion 0.7
+Media de reward en episodios 901 a 1000: -71.82996610883333 con exploracion 0.7
