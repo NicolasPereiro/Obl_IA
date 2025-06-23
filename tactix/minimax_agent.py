@@ -40,7 +40,7 @@ class MinimaxTacTixAgent(Agent):
         return 1 if remaining % 2 == 1 else -1
 
 
-    def minimax(self, board, depth, maximizing_player):
+    def minimax(self, board, depth, maximizing_player, alpha=float('-inf'), beta=float('inf')):
         if depth == 0 or np.count_nonzero(board) == 0:
             return self.h(board)
         
@@ -49,15 +49,21 @@ class MinimaxTacTixAgent(Agent):
             max_eval = float('-inf')
             for action in valid_actions:
                 new_board = self.simulate_action(board, action)
-                eval = self.minimax(new_board, depth - 1, False)
+                eval = self.minimax(new_board, depth - 1, False, alpha, beta)
                 max_eval = max(max_eval, eval)
+                alpha = max(alpha, eval)
+                if beta <= alpha:
+                    break  # Poda beta
             return max_eval
         else:
             min_eval = float('inf')
             for action in valid_actions:
                 new_board = self.simulate_action(board, action)
-                eval = self.minimax(new_board, depth - 1, True)
+                eval = self.minimax(new_board, depth - 1, True, alpha, beta)
                 min_eval = min(min_eval, eval)
+                beta = min(beta, eval)
+                if beta <= alpha:
+                    break  # Poda alfa
             return min_eval
 
     def act(self, observation):
