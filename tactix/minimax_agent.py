@@ -34,11 +34,52 @@ class MinimaxTacTixAgent(Agent):
             new_board[start:end+1, idx] = 0
         return new_board
     
-    def h(self, board):
+    def h1(self, board):
         # Heurística simple: paridad de piezas restantes
         remaining = np.count_nonzero(board)
         return 1 if remaining % 2 == 1 else -1
 
+    def h2(self, board):
+        # Heurística de segmentos ponderados: evalúa la calidad de los segmentos disponibles
+        score = 0
+        size = board.shape[0]
+        
+        # Evaluar filas y columnas
+        for is_row in [0, 1]:
+            for idx in range(size):
+                line = board[idx, :] if is_row else board[:, idx]
+                # Encontrar segmentos consecutivos
+                segments = []
+                start = None
+                for i in range(size):
+                    if line[i] == 1:
+                        if start is None:
+                            start = i
+                    elif start is not None:
+                        segments.append(i - start)  # longitud del segmento
+                        start = None
+                if start is not None:
+                    segments.append(size - start)
+                
+                # Asignar puntuación basada en el tamaño de los segmentos
+                for seg_len in segments:
+                    if seg_len == 1:
+                        score += 1    # Segmentos pequeños son menos valiosos
+                    elif seg_len == 2:
+                        score += 3    # Segmentos medianos
+                    elif seg_len == 3:
+                        score += 5    # Segmentos grandes
+                    else:
+                        score += 7    # Segmentos muy grandes son muy valiosos
+        
+        # Aplicar paridad como factor de corrección
+        remaining = np.count_nonzero(board)
+        parity_factor = 1 if remaining % 2 == 1 else -1 # para quien va
+        
+        return score * parity_factor
+    
+    def h(self, board):
+        return self.h1(board) + 2 * self.h2(board) # ponderación de heurísticas, es más importante la segunda
 
     def minimax(self, board, depth, maximizing_player, alpha=float('-inf'), beta=float('inf')):
         if depth == 0 or np.count_nonzero(board) == 0:
